@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: richardr1126/openreader-webui
+  IMAGE_NAME: kirkins/openreader-webui
 
 jobs:
   build:
