@@ -98,7 +98,7 @@ services:
 ## Dev Installation
 
 ### Prerequisites
-- Node.js & npm (recommended: use [nvm](https://github.com/nvm-sh/nvm))
+- Node.js 24 LTS & npm (recommended: use [nvm](https://github.com/nvm-sh/nvm))
 Optionally required for different features:
 - [FFmpeg](https://ffmpeg.org) (required for audiobook m4b creation only)
   - On Linux: `sudo apt install ffmpeg`

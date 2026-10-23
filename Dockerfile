@@ -1,5 +1,5 @@
-# Use Node.js slim image
-FROM node:current-alpine
+# Use Node.js 24 LTS (Alpine) image
+FROM node:24-alpine
 
 # Add ffmpeg and libreoffice using Alpine package manager
 RUN apk add --no-cache ffmpeg libreoffice-writer
